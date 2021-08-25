@@ -4,7 +4,7 @@ I received my bachelor's degree in <a href="https://geesufmg.com/"> Systems Engi
 
 Useful links:
 
-- Bachelor's degree: <a href="https://drive.google.com/file/d/1hKSkDOWhCb1QHvuw5hxjJC-jAoe2TGBW/view?usp=sharing">Undergraduate project (PT-BR)</a>
+- Bachelor's degree: <a href="https://drive.google.com/file/d/1hKSkDOWhCb1QHvuw5hxjJC-jAoe2TGBW/view?usp=sharing">Undergraduate thesis (PT-BR)</a>
 - Master's degree: <a href="https://www.ppgee.ufmg.br/diss_defesas_detalhes.php?aluno=1908">Dissertation (PT-BR)</a>, <a href="https://www.youtube.com/watch?v=Rf8wFbzkJQ0">Video Presentation (PT-BR)</a>
 
 Contact me:
