@@ -20,4 +20,4 @@ I received my bachelor's degree in <a href="https://geesufmg.com/"> Systems Engi
 
 ### Contact me:
 
-| <a href="https://www.linkedin.com/in/pedbrgs/">Linkedin</a> | <a href="mailto:pedbrgs@gmail.com">Email</a> | <a href="https://twitter.com/pedbrgs">Twitter</a> | <a href="https://www.instagram.com/pedbrgs">Instagram</a> | <a href="https://medium.com/@pedbrgs">Medium</a> | <a href="http://lattes.cnpq.br/2970145748697977">Lattes</a> | <a href="https://scholar.google.com/citations?user=yCwA-p0AAAAJ&hl=pt-BR">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Pedro-Venancio-2">ResearchGate</a> |
+| <a href="https://www.linkedin.com/in/pedbrgs/">Linkedin</a> | <a href="mailto:pedbrgs@gmail.com">Email</a> | <a href="http://lattes.cnpq.br/2970145748697977">Lattes (in Portuguese)</a> | <a href="https://scholar.google.com/citations?user=yCwA-p0AAAAJ&hl=pt-BR">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Pedro-Venancio-2">ResearchGate</a> |
