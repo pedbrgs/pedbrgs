@@ -30,7 +30,7 @@ This page contains all the projects I've participated in, as well as a brief des
 
 **Project name:** Study of combinatorial metaheuristics for engineering optimization <br>
 **Development Agency:** <a href = "http://www.fapemig.br/pt/" > Minas Gerais Research Foundation (FAPEMIG) </a> <br>
-**Description:** Development of an algorithm to optimize vehicle scheduling of the <a href = "https://prefeitura.pbh.gov.br/bhtrans" > Transport and Transit Company of Belo Horizonte (BHTrans)</a>.
+**Description:** Development of an algorithm to optimize vehicle scheduling of the <a href = "https://prefeitura.pbh.gov.br/bhtrans" > Transport and Transit Company of Belo Horizonte (BHTrans)</a>. <br>
 **Related papers:**
 - Pedro Vinícius Almeida Borges de Venâncio, Lucas de Souza Batista: <a href="https://proceedings.science/sbpo-2019/papers/multicriteria-analysis-of-a-real-vehicle-scheduling-problem-under-travel-time-uncertainty?lang=pt-br">Multicriteria analysis of a real vehicle scheduling problem under travel time uncertainty.</a> In: LI Simpósio Brasileiro de Pesquisa Operacional (SBPO), 2019, Limeira, São Paulo, Brazil.
 - Pedro Vinícius Almeida Borges de Venâncio, Emiliana Mara Lopes Simões, Lucas de Souza Batista: <a href = "https://www.ufrgs.br/sbai17/papers/paper_128.pdf" > Investigação de uma metaheurística baseada em memória para resolução do problema de programação de veículos (in Portuguese)</a>. In: XIII Simpósio Brasileiro de Automação Inteligente (SBAI), 2017, Porto Alegre, Rio Grande do Sul, Brazil. <br>
