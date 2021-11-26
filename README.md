@@ -15,6 +15,7 @@ I received my bachelor's degree in <a href="https://geesufmg.com/"> Systems Engi
 
 - Bachelor's degree: <a href="https://drive.google.com/file/d/1hKSkDOWhCb1QHvuw5hxjJC-jAoe2TGBW/view?usp=sharing">Undergraduate thesis (in Portuguese)</a>
 - Master's degree: <a href="https://www.ppgee.ufmg.br/diss_defesas_detalhes.php?aluno=1908">Dissertation (in Portuguese)</a> and <a href="https://www.youtube.com/watch?v=Rf8wFbzkJQ0">Video presentation (in Portuguese)</a>
+- Projects: <a href="https://github.com/pedbrgs/pedbrgs/blob/main/projects.md">Portfolio</a>
 
 ***
 
