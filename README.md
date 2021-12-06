@@ -1,6 +1,6 @@
 ### About me
 
-I received my bachelor's degree in <a href="https://geesufmg.com/"> Systems Engineer</a> from <a href="https://ufmg.br/"> Universidade Federal de Minas Gerais</a> in 2019 and I received my master's degree in Computational Intelligence from <a href="https://ufmg.br/"> Universidade Federal de Minas Gerais</a> in 2021. I'm currently working as Artificial Intelligence Researcher at <a href="https://www.gaiasd.com/en-index.html">Gaia solutions on demand</a> and as Graduate Teaching Assistant of <a href="https://coens.dv.utfpr.edu.br/pos/ciencia-dados/">Data Science Specialization</a> (distance learning) at <a href="http://www.utfpr.edu.br/campus/doisvizinhos">Universidade Tecnológica Federal do Paraná</a>. My main interests are deep learning, machine learning, data science, computer vision and optimization. In my free time, I like training Brazilian jiu jitsu, skateboarding, traveling and cooking. Feel free to get in touch!
+I received my bachelor's degree in <a href="https://geesufmg.com/"> Systems Engineer</a> from <a href="https://ufmg.br/"> Universidade Federal de Minas Gerais</a> in 2019 and I received my master's degree in Computational Intelligence from <a href="https://ufmg.br/"> Universidade Federal de Minas Gerais</a> in 2021. I'm currently working as Data Scientist at <a href="https://bigdata.com.br/">Big Data</a> and as Graduate Teaching Assistant of <a href="https://coens.dv.utfpr.edu.br/pos/ciencia-dados/">Data Science Specialization</a> (distance learning) at <a href="http://www.utfpr.edu.br/campus/doisvizinhos">Universidade Tecnológica Federal do Paraná</a>. My main interests are deep learning, machine learning, data science, computer vision and optimization. In my free time, I like training Brazilian jiu jitsu, skateboarding, traveling and cooking. Feel free to get in touch!
 
 ***
 
@@ -13,9 +13,9 @@ I received my bachelor's degree in <a href="https://geesufmg.com/"> Systems Engi
 
 ### Useful links:
 
+- Projects: <a href="https://github.com/pedbrgs/pedbrgs/blob/main/projects.md">Portfolio</a>
 - Bachelor's degree: <a href="https://drive.google.com/file/d/1hKSkDOWhCb1QHvuw5hxjJC-jAoe2TGBW/view?usp=sharing">Undergraduate thesis (in Portuguese)</a>
 - Master's degree: <a href="https://www.ppgee.ufmg.br/diss_defesas_detalhes.php?aluno=1908">Dissertation (in Portuguese)</a> and <a href="https://www.youtube.com/watch?v=Rf8wFbzkJQ0">Video presentation (in Portuguese)</a>
-- Projects: <a href="https://github.com/pedbrgs/pedbrgs/blob/main/projects.md">Portfolio</a>
 
 ***
 
