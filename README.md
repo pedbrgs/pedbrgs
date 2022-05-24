@@ -8,8 +8,8 @@ I received my bachelor's degree in <a href="https://geesufmg.com/"> Systems Engi
 
 ### Selected publications:
 
-- <p align="justify">Pedro Vinícius Almeida Borges de Venâncio, Tamires Martins Rezende, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://ieeexplore.ieee.org/document/9769824"> Fire Detection based on a Two-Dimensional Convolutional Neural Network and Temporal Analysis. </a> In: IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2021, Temuco, Chile.</p>
-- <p align="justify">Pedro Vinícius Almeida Borges de Venâncio, Lucas de Souza Batista: <a href="https://proceedings.science/sbpo-2019/papers/multicriteria-analysis-of-a-real-vehicle-scheduling-problem-under-travel-time-uncertainty?lang=pt-br">Multicriteria analysis of a real vehicle scheduling problem under travel time uncertainty.</a> In: LI Simpósio Brasileiro de Pesquisa Operacional (SBPO), 2019, Limeira, Brazil.</p>
+- <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Tamires Martins Rezende, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://ieeexplore.ieee.org/document/9769824"> Fire Detection based on a Two-Dimensional Convolutional Neural Network and Temporal Analysis. </a> In: IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2021, Temuco, Chile.</p>
+- <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Lucas de Souza Batista: <a href="https://proceedings.science/sbpo-2019/papers/multicriteria-analysis-of-a-real-vehicle-scheduling-problem-under-travel-time-uncertainty?lang=pt-br">Multicriteria analysis of a real vehicle scheduling problem under travel time uncertainty.</a> In: LI Simpósio Brasileiro de Pesquisa Operacional (SBPO), 2019, Limeira, Brazil.</p>
 
 ***
 
@@ -23,4 +23,4 @@ I received my bachelor's degree in <a href="https://geesufmg.com/"> Systems Engi
 
 ### Contact me:
 
-| <a href="https://www.linkedin.com/in/pedbrgs/">Linkedin</a> | <a href="mailto:pedbrgs@gmail.com">Email</a> | <a href="http://lattes.cnpq.br/2970145748697977">Lattes (in Portuguese)</a> | <a href="https://scholar.google.com/citations?user=yCwA-p0AAAAJ&hl=pt-BR">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Pedro-Venancio-2">ResearchGate</a> |
+| <a href="https://www.linkedin.com/in/pedbrgs/">Linkedin</a> | <a href="mailto:pedbrgs@gmail.com">Email</a> | <a href="https://scholar.google.com/citations?user=yCwA-p0AAAAJ&hl=pt-BR">Google Scholar</a> | <a href="https://www.researchgate.net/profile/Pedro-Venancio-2">ResearchGate</a> | <a href="http://lattes.cnpq.br/2970145748697977">Lattes (in Portuguese)</a> |
