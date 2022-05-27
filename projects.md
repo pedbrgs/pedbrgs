@@ -1,16 +1,18 @@
-## Projects
+# Projects
 
 This page contains all the projects I've participated in, as well as a brief description of them.
 
 ***
 
-### Product Development
+## Product development
 
 **Project name:** Bus inspection <br>
 **Client:** <a href = "https://www.grupocsc.com.br/" > CSC Group - Transport and Logistics </a> <br>
 **Field:** Computer vision<br>
 **Description:** Development of an artificial intelligence system to detect loose nut indicator on the buses wheels and validate if they are in the correct position according to their angles. <br>
 <a href = "https://drive.google.com/file/d/1NGBH-_qk517P34zvCO5pSWpHHqTBU8oH/view" > **Demo video** </a> <br> 
+
+***
 
 **Project name:** Driving style classification <br>
 **Client:** <a href = "https://www.cemig.com.br/" > Minas Gerais Energy Company (CEMIG) </a> <br>
@@ -20,7 +22,7 @@ This page contains all the projects I've participated in, as well as a brief des
 
 ***
 
-### Research and development
+## Research and development
 
 **Project name:** Environmental monitoring by computer vision applied to real situations <br>
 **Client:** <a href = "https://www.cemig.com.br/" > Minas Gerais Energy Company (CEMIG) </a> <br>
@@ -31,6 +33,8 @@ This page contains all the projects I've participated in, as well as a brief des
 * <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Tamires Martins Rezende, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://ieeexplore.ieee.org/document/9769824"> Fire Detection based on a Two-Dimensional Convolutional Neural Network and Temporal Analysis. </a> In: IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2021, Temuco, Chile.</p>
 * <p align="justify">Adriano Chaves Lisboa, <b>Pedro Vinícius Almeida Borges de Venâncio</b>, Arlindo Follador Neto, Hermes Aguiar Magalhães, Carlos Alexandre Meireles Nascimento, Hani Camille Yehia: <a href="https://periodicos.ufmg.br/index.php/revistadaufmg/article/view/12703"> Monitoramento de incêndios por meio de redes e linhas aéreas de energia elétrica (in Portuguese). </a> In: Revista da Universidade Federal de Minas Gerais, 2020, Belo Horizonte, Brazil.</p>
 * <p align="justify">Adriano Chaves Lisboa, Hani Camille Yehia, Carlos Alexandre Meireles Nascimento, Hermes Aguiar Magalhães, <b>Pedro Vinícius Almeida Borges de Venâncio</b>, Arlindo Follador Neto: <a href = "http://www.bvr.com.br/snptee/xxvsnptee/trabalhos/GMA/3287.php" > Interação com a sociedade por meio de sistema de visão computacional para monitoramento ambiental de linhas de transmissão (in Portuguese)</a>. In: XXV Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2019, Belo Horizonte, Brazil.</p>
+
+***
 
 **Project name:** Study of combinatorial metaheuristics for engineering optimization <br>
 **Development Agency:** <a href = "http://www.fapemig.br/pt/" > Minas Gerais Research Foundation (FAPEMIG) </a> <br>
