@@ -1,7 +1,7 @@
 ### About me
 
 <p align="justify">
-I received my bachelor's degree in <a href="https://geesufmg.com/"> Systems Engineering</a> from <a href="https://ufmg.br/"> Universidade Federal de Minas Gerais</a> in 2019 and I received my master's degree in Computational Intelligence from <a href="https://ufmg.br/"> Universidade Federal de Minas Gerais</a> in 2021. I'm currently working as Data Scientist at <a href="https://bigdata.com.br/en/">Big Data</a> and as Graduate Teaching Assistant of <a href="https://coens.dv.utfpr.edu.br/pos/ciencia-dados/">Data Science Specialization</a> (distance learning) at <a href="http://www.utfpr.edu.br/campus/doisvizinhos">Universidade Tecnológica Federal do Paraná</a>. My main interests are computer vision, data science, machine learning and optimization. In my free time, I like training Brazilian jiu jitsu, skateboarding, traveling and cooking. Feel free to get in touch!
+I received my bachelor's degree in <a href="https://geesufmg.com/"> Systems Engineering</a> from <a href="https://ufmg.br/"> Universidade Federal de Minas Gerais</a> in 2019 and I received my master's degree in Computational Intelligence from <a href="https://ufmg.br/"> Universidade Federal de Minas Gerais</a> in 2021. I'm currently working as Data Scientist at <a href="https://bigdata.com.br/en/">Big Data</a>. My main interests are computer vision, data science, machine learning and optimization. In my free time, I like training Brazilian jiu jitsu, skateboarding, traveling and cooking. Feel free to get in touch!
 </p>
 
 ***
