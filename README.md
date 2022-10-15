@@ -9,11 +9,10 @@ I received my bachelor's degree<sup>1</sup> in <a href="https://geesufmg.com/"> 
 
 ***
 
-### Portfolio:
+### Projects:
 
-- **Projects:**
-    - <a href="https://github.com/pedbrgs/pedbrgs/blob/main/projects.md#product-development">Product development</a>
-    - <a href="https://github.com/pedbrgs/pedbrgs/blob/main/projects.md#research-and-development">Research and development</a>
+- <a href="https://github.com/pedbrgs/pedbrgs/blob/main/projects.md#product-development">Product development</a>
+- <a href="https://github.com/pedbrgs/pedbrgs/blob/main/projects.md#research-and-development">Research and development</a>
     
 ***
 
