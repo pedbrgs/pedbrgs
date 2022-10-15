@@ -9,13 +9,6 @@ I received my bachelor's degree<sup>1</sup> in <a href="https://geesufmg.com/"> 
 
 ***
 
-### Projects:
-
-- <a href="https://github.com/pedbrgs/pedbrgs/blob/main/projects.md#product-development">Product development</a>
-- <a href="https://github.com/pedbrgs/pedbrgs/blob/main/projects.md#research-and-development">Research and development</a>
-    
-***
-
 ### Selected publications:
 
 - <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://link.springer.com/article/10.1007/s00521-022-07467-z"> An automatic fire detection system based on deep convolutional neural networks for low-power, resource-constrained devices. </a> In: Neural Computing and Applications, 2022.</p>
@@ -23,3 +16,12 @@ I received my bachelor's degree<sup>1</sup> in <a href="https://geesufmg.com/"> 
 - <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Lucas de Souza Batista: <a href="https://proceedings.science/sbpo-2019/papers/multicriteria-analysis-of-a-real-vehicle-scheduling-problem-under-travel-time-uncertainty?lang=pt-br">Multicriteria analysis of a real vehicle scheduling problem under travel time uncertainty.</a> In: LI Simpósio Brasileiro de Pesquisa Operacional (SBPO), 2019, Limeira, Brazil.</p>
 
 For more publications, see my profiles on <a href="https://scholar.google.com/citations?user=yCwA-p0AAAAJ&hl=pt-BR">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Pedro-Venancio-2">ResearchGate</a>.
+
+***
+
+### Projects:
+
+- <a href="https://github.com/pedbrgs/pedbrgs/blob/main/projects.md#product-development">Product development</a>
+- <a href="https://github.com/pedbrgs/pedbrgs/blob/main/projects.md#research-and-development">Research and development</a>
+    
+***
