@@ -11,9 +11,9 @@ I received my bachelor's degree<sup>1</sup> in <a href="https://geesufmg.com/"> 
 
 ### Selected publications:
 
+- <p align="justify"> Anderson Chaves Carniel, <b>Pedro Vinícius Almeida Borges de Venâncio</b>, Markus Schneider: <a href="https://onlinelibrary.wiley.com/doi/10.1111/tgis.13044"> fsr: An R package for fuzzy spatial data handling. </a> In: Transactions in GIS, 2023.</p>
 - <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Roger Júnio Campos, Tamires Martins Rezende, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://link.springer.com/article/10.1007/s00521-023-08260-2"> A hybrid method for fire detection based on spatial and temporal patterns. </a> In: Neural Computing and Applications, 2023.</p>
 - <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://link.springer.com/article/10.1007/s00521-022-07467-z"> An automatic fire detection system based on deep convolutional neural networks for low-power, resource-constrained devices. </a> In: Neural Computing and Applications, 2022.</p>
-- <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Tamires Martins Rezende, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://ieeexplore.ieee.org/document/9769824"> Fire detection based on a two-dimensional convolutional neural network and temporal analysis. </a> In: IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2021, Temuco, Chile.</p>
 
 For more publications, see my profiles on <a href="https://scholar.google.com/citations?user=yCwA-p0AAAAJ&hl=pt-BR">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Pedro-Venancio-2">ResearchGate</a>.
 
