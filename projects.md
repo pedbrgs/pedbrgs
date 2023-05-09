@@ -26,6 +26,16 @@ This page contains all the projects I've participated in, as well as a brief des
 
 ## Research and development
 
+**Project name:** <a href = "https://cran.r-project.org/web/packages/fsr/index.html" > **fsr package** </a> <br>
+**Field:** Spatial data science<br>
+**Description:** Development of an R package for handling fuzzy spatial data. <br>
+<a href = "https://github.com/accarniel/fsr" > **GitHub** </a> <br>
+**Related papers:**
+- <p align="justify"> Anderson Chaves Carniel, <b>Pedro Vinícius Almeida Borges de Venâncio</b>, Markus Schneider: <a href="https://onlinelibrary.wiley.com/doi/10.1111/tgis.13044"> fsr: An R package for fuzzy spatial data handling. </a> In: Transactions in GIS, 2023.</p>
+- <p align="justify"> Henrique Pigozzo da Silva, Thiago Deschamps Reis Felix, <b>Pedro Vinícius Almeida Borges de Venâncio</b>, Anderson Chaves Carniel: <a href="https://link.springer.com/chapter/10.1007/978-3-031-17995-2_13"> Discovery of Spatial Association Rules from Fuzzy Spatial Data. </a> In: 41st International Conference on Conceptual Modeling (ER), 2022, Hyderabad, India.</p>
+
+***
+
 **Project name:** Environmental monitoring by computer vision applied to real situations <br>
 **Client:** <a href = "https://www.cemig.com.br/" > Minas Gerais Energy Company (CEMIG) </a> <br>
 **Field:** Computer vision<br>
