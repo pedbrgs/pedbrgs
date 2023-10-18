@@ -15,7 +15,7 @@ I received my bachelor's degree<sup>1</sup> in <a href="https://geesufmg.com/"> 
 - <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Roger Júnio Campos, Tamires Martins Rezende, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://link.springer.com/article/10.1007/s00521-023-08260-2"> A hybrid method for fire detection based on spatial and temporal patterns. </a> In: Neural Computing and Applications, 2023.</p>
 - <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://link.springer.com/article/10.1007/s00521-022-07467-z"> An automatic fire detection system based on deep convolutional neural networks for low-power, resource-constrained devices. </a> In: Neural Computing and Applications, 2022.</p>
 
-For more publications, see my profiles on <a href="https://scholar.google.com/citations?user=yCwA-p0AAAAJ&hl=pt-BR">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Pedro-Venancio-2">ResearchGate</a>.
+For additional publications, please visit my profiles on <a href="https://scholar.google.com/citations?user=yCwA-p0AAAAJ&hl=pt-BR">Google Scholar</a> or <a href="https://www.researchgate.net/profile/Pedro-Venancio-2">ResearchGate</a>.
 
 ***
 
