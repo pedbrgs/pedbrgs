@@ -10,7 +10,7 @@ This page contains all the projects I've participated in, as well as a brief des
 **Client:** <a href = "https://www.grupocsc.com.br/" > CSC Group - Transport and Logistics </a> <br>
 **Field:** Computer vision<br>
 **Description:** Development of an artificial intelligence system to detect loose nut indicator on the buses wheels and validate if they are in the correct position according to their angles. <br>
-<a href = "https://drive.google.com/file/d/1NGBH-_qk517P34zvCO5pSWpHHqTBU8oH/view" > **Demo video** </a> <br> 
+<a href = "https://1drv.ms/v/c/c0bd25b6b048b01d/ESRQV6JGXMhCo2Ay7NAOFOMB3xt1B7k12hxU9ottH9Og1g?e=uf9g47" > **Demo video** </a> <br> 
 
 ***
 
@@ -18,7 +18,7 @@ This page contains all the projects I've participated in, as well as a brief des
 **Client:** <a href = "https://www.cemig.com.br/" > Minas Gerais Energy Company (CEMIG) </a> <br>
 **Field:** Computer vision<br>
 **Description:** Development of an artificial intelligence system (minimum viable product) to recognize illegal overtaking on highways. <br>
-<a href = "https://drive.google.com/file/d/1PE2X-3gplPqCxcw8DnaQajCKaW94HDAI/view" > **Demo video** </a> <br>
+<a href = "https://1drv.ms/v/c/c0bd25b6b048b01d/EVW2PW3DdhFIj1y-AAlHuqEB_3eDSDSD3IGDOlfsP5XSqA?e=8CPEXz" > **Demo video** </a> <br>
 **Related papers:**
 - <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Tamires Martins Rezende, Felipe Cerqueira Lyra, Adriano Chaves Lisboa: <a href="https://www.researchgate.net/publication/365706504_Deteccao_automatica_de_ultrapassagens_irregulares_na_conducao_de_motos">Detecção automática de ultrapassagens irregulares na condução de motos  (in Portuguese).</a> In: XXIX Simpósio de Engenharia de Produção (SIMPEP), 2022, Bauru, Brazil.</p>
 
@@ -40,7 +40,7 @@ This page contains all the projects I've participated in, as well as a brief des
 **Client:** <a href = "https://www.cemig.com.br/" > Minas Gerais Energy Company (CEMIG) </a> <br>
 **Field:** Computer vision<br>
 **Description:** Development of a fire detection system based on deep convolutional neural networks. <br>
-<a href = "https://drive.google.com/file/d/1GILdMvwXi5umYGGyTjwiNhGiLfmpgEvu/view" > **Demo video** </a> and <a href = "https://github.com/pedbrgs/Fire-Detection" > **GitHub** </a> <br>
+<a href = "https://1drv.ms/v/c/c0bd25b6b048b01d/EZODnknyCF1ElEaOsvEarZIBnrSihgCvV1ydyjxLSJl2VA?e=zbka7T" > **Demo video** </a> and <a href = "https://github.com/pedbrgs/Fire-Detection" > **GitHub** </a> <br>
 **Related papers:**
 * <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Roger Júnio Campos, Tamires Martins Rezende, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://link.springer.com/article/10.1007/s00521-023-08260-2"> A hybrid method for fire detection based on spatial and temporal patterns. </a> In: Neural Computing and Applications, 2023.</p>
 * <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://link.springer.com/article/10.1007/s00521-022-07467-z"> An automatic fire detection system based on deep convolutional neural networks for low-power, resource-constrained devices. </a> In: Neural Computing and Applications, 2022.</p>
