@@ -1,12 +1,11 @@
 ### About me
 
 <p align="justify">
-I received my bachelor's degree<sup>1</sup> in <a href="https://geesufmg.com/"> Systems Engineering</a> from <a href="https://ufmg.br/international-visitors"> Universidade Federal de Minas Gerais (UFMG)</a> in 2019, followed by my master's degree<sup>2</sup> in Computational Intelligence from <a href="https://ufmg.br/international-visitors"> UFMG</a> in 2021. Currently, I am pursuing a PhD in Optimization at <a href="https://ufmg.br/international-visitors"> UFMG</a> while also holding the position of Associate Director of Artificial Intelligence at <a href="https://www.btgpactual.us/">BTG Pactual</a>. My experiences include problem solving in computer vision, data science, machine learning, natural language processing, operations research and optimization. In my free time, I like training Brazilian jiu jitsu, skateboarding, traveling and cooking. Feel free to get in touch!
+I hold a bachelor's degree<sup>1</sup> in <a href="https://geesufmg.com/"> Systems Engineering</a> and a master's degree<sup>2</sup> in Computational Intelligence, both from <a href="https://ufmg.br/international-visitors"> Universidade Federal de Minas Gerais (UFMG)</a>. I am currently pursuing a PhD in Optimization at <a href="https://ufmg.br/international-visitors"> UFMG</a>, with visiting research experience at the <a href="https://www.bristol.ac.uk/"> University of Bristol</a>. Alongside my studies, I serve as Associate Director of Artificial Intelligence at <a href="https://www.btgpactual.us/">BTG Pactual</a>. With over 10 years of research and development experience, my work spans computer vision, data science, machine learning, natural language processing, operations research and optimization. In my free time, I like training Brazilian jiu jitsu, skateboarding, traveling, cooking and enjoying a good cup of coffee. Feel free to get in touch!
 </p>
 
-> <sup>1</sup> [Bachelor's thesis (in Portuguese)](https://1drv.ms/b/c/c0bd25b6b048b01d/IQA0EFxhmI3OS4SKXV-ei3H1Aa50bQQj_jJv7rTiL0xT0PE?e=C5nzP4)<br />
-> <sup>2</sup> [Master's thesis (in Portuguese)](https://www.ppgee.ufmg.br/diss_defesas_detalhes.php?aluno=1908), [Video presentation (in Portuguese)](https://www.youtube.com/watch?v=Rf8wFbzkJQ0)<br />
-
+> <sup>1</sup> Bachelor's thesis: [full text (in Portuguese)](https://1drv.ms/b/c/c0bd25b6b048b01d/IQA0EFxhmI3OS4SKXV-ei3H1Aa50bQQj_jJv7rTiL0xT0PE?e=C5nzP4)<br />
+> <sup>2</sup> Master's thesis: [full text (in Portuguese)](https://www.ppgee.ufmg.br/diss_defesas_detalhes.php?aluno=1908) · [video presentation (in Portuguese)](https://www.youtube.com/watch?v=Rf8wFbzkJQ0)<br />
 ***
 
 ### Selected publications:
