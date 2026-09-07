@@ -8,7 +8,8 @@ This page contains all the projects I've participated in, as well as a brief des
 
 **Project name:** Bus inspection <br>
 **Client:** <a href = "https://www.grupocsc.com.br/" > CSC Group - Transport and Logistics </a> <br>
-**Field:** Computer vision<br>
+**Fields:** Computer vision, deep learning<br>
+**Role:** Research scientist<br>
 **Description:** Development of an artificial intelligence system to detect loose nut indicator on the buses wheels and validate if they are in the correct position according to their angles. <br>
 <a href = "https://1drv.ms/v/c/c0bd25b6b048b01d/ESRQV6JGXMhCo2Ay7NAOFOMB3xt1B7k12hxU9ottH9Og1g?e=uf9g47" > **Demo video** </a> <br> 
 
@@ -16,7 +17,8 @@ This page contains all the projects I've participated in, as well as a brief des
 
 **Project name:** Driving style classification <br>
 **Client:** <a href = "https://www.cemig.com.br/" > Minas Gerais Energy Company (CEMIG) </a> <br>
-**Field:** Computer vision<br>
+**Fields:** Computer vision, deep learning<br>
+**Role:** Research scientist<br>
 **Description:** Development of an artificial intelligence system (minimum viable product) to recognize illegal overtaking on highways. <br>
 <a href = "https://1drv.ms/v/c/c0bd25b6b048b01d/EVW2PW3DdhFIj1y-AAlHuqEB_3eDSDSD3IGDOlfsP5XSqA?e=8CPEXz" > **Demo video** </a> <br>
 **Related papers:**
@@ -26,8 +28,21 @@ This page contains all the projects I've participated in, as well as a brief des
 
 ## Research and development
 
+**Project name:** Cooperative co-evolutionary algorithms for high-dimensional feature selection <br>
+**Development Agency:** <a href = "https://www.gov.br/capes/" > Coordination for the Improvement of Higher Education Personnel (CAPES) </a> <br>
+**Fields:** Optimization, machine learning, meta-learning<br>
+**Role:** PhD student<br>
+**Description:** Development of cooperative co-evolutionary algorithms and open-source tools for feature selection in high-dimensional data. <br>
+<a href = "https://github.com/pedbrgs/PyCCEA" > **Package**</a>, <a href = "https://github.com/pedbrgs/MetaFS" > **Application** </a> <br>
+**Related papers:**
+- <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Lucas de Souza Batista: <a href="https://doi.org/10.1016/j.knosys.2025.113327"> A self-tuning decomposition strategy in cooperative co-evolutionary algorithms for high-dimensional feature selection. </a> In: Knowledge-Based Systems, 2025.</p>
+- <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Lucas de Souza Batista: <a href="https://doi.org/10.21105/joss.08348"> PyCCEA: A Python package of cooperative co-evolutionary algorithms for feature selection in high-dimensional data. </a> In: Journal of Open Source Software, 2025.</p>
+
+***
+
 **Project name:** <a href = "https://cran.r-project.org/web/packages/fsr/index.html" > **fsr package** </a> <br>
-**Field:** Spatial data science<br>
+**Fields:** Spatial data science, fuzzy set theory<br>
+**Role:** Graduate teaching assistant<br>
 **Description:** Development of an R package for handling fuzzy spatial data. <br>
 <a href = "https://github.com/accarniel/fsr" > **GitHub** </a> <br>
 **Related papers:**
@@ -38,8 +53,9 @@ This page contains all the projects I've participated in, as well as a brief des
 
 **Project name:** Environmental monitoring by computer vision applied to real situations <br>
 **Client:** <a href = "https://www.cemig.com.br/" > Minas Gerais Energy Company (CEMIG) </a> <br>
-**Field:** Computer vision<br>
-**Description:** Development of a fire detection system based on deep convolutional neural networks. <br>
+**Fields:** Computer vision, deep learning, edge computing<br>
+**Role:** Master's student<br>
+**Description:** Development of a fire detection system based on deep convolutional neural networks for low-power, resource-constrained devices. <br>
 <a href = "https://1drv.ms/v/c/c0bd25b6b048b01d/EZODnknyCF1ElEaOsvEarZIBnrSihgCvV1ydyjxLSJl2VA?e=zbka7T" > **Demo video** </a> and <a href = "https://github.com/pedbrgs/Fire-Detection" > **GitHub** </a> <br>
 **Related papers:**
 * <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Roger Júnio Campos, Tamires Martins Rezende, Adriano Chaves Lisboa, Adriano Vilela Barbosa: <a href="https://link.springer.com/article/10.1007/s00521-023-08260-2"> A hybrid method for fire detection based on spatial and temporal patterns. </a> In: Neural Computing and Applications, 2023.</p>
@@ -52,7 +68,8 @@ This page contains all the projects I've participated in, as well as a brief des
 
 **Project name:** Study of combinatorial metaheuristics for engineering optimization <br>
 **Development Agency:** <a href = "http://www.fapemig.br/pt/" > Minas Gerais Research Foundation (FAPEMIG) </a> <br>
-**Field:** Optimization<br>
+**Fields:** Optimization, operations research<br>
+**Role:** Undergraduate researcher<br>
 **Description:** Development of an algorithm to optimize vehicle scheduling of the <a href = "https://prefeitura.pbh.gov.br/bhtrans" > Transport and Transit Company of Belo Horizonte (BHTrans)</a>. <br>
 **Related papers:**
 - <p align="justify"><b>Pedro Vinícius Almeida Borges de Venâncio</b>, Lucas de Souza Batista: <a href="https://proceedings.science/sbpo-2019/papers/multicriteria-analysis-of-a-real-vehicle-scheduling-problem-under-travel-time-uncertainty?lang=pt-br">Multicriteria analysis of a real vehicle scheduling problem under travel time uncertainty.</a> In: LI Simpósio Brasileiro de Pesquisa Operacional (SBPO), 2019, Limeira, Brazil.</p>
